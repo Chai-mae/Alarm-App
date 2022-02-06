@@ -16,12 +16,19 @@ Our application is implemented using the MVC model :
 Our application has the following features :
 
 * Alarm
+
 ![UNO](https://user-images.githubusercontent.com/93831197/152685657-942fc2bf-2be0-4f3c-8874-daca06177a95.jpeg)
+
 * Chronometer
+
 ![DOS](https://user-images.githubusercontent.com/93831197/152685669-dfba9060-e5c1-4e2a-8f51-940cbe02fc47.jpeg)
+
 * Timer
+
 ![TRES](https://user-images.githubusercontent.com/93831197/152685673-f176ebd0-5665-4f8b-bd0b-d5f8dbddca35.jpeg)
-* Analog Clock
+
+* Analog ClocK
+
 ![QA](https://user-images.githubusercontent.com/93831197/152685679-f514240f-13c0-4046-a7e6-9d984afe3c0c.jpeg)
 
 
