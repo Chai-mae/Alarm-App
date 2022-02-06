@@ -35,5 +35,8 @@ The main window is the Alarm window which contains five QPushButtons  one for de
 
 It contains also a QListView in which the alarmsare displayed. At the top of the main window, there is a QLCDNumber that displays the current time.
 
+**<h2>Alarm Functionality:</h2>**
+
+This is the main functionality of our application. To set a new alarm we need to click on the plus button at the top right of the main window. The following QDialog window appears :
 
 
