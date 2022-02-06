@@ -31,4 +31,9 @@ Our application has the following features :
 
 ![QA](https://user-images.githubusercontent.com/93831197/152685679-f514240f-13c0-4046-a7e6-9d984afe3c0c.jpeg)
 
+The main window is the Alarm window which contains five QPushButtons  one for deleting an existing alarm, one for adding a new alarm, one for the timer, the fourth one for the chronometer and the last one for the analog clock.
+
+It contains also a QListView in which the alarmsare displayed. At the top of the main window, there is a QLCDNumber that displays the current time.
+
+
 
