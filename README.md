@@ -6,15 +6,15 @@
 
    [Introduction](#Introduction)
    
-   [Application description](1-Application-description)
+   [1-Application description](1-Application-description)
    
-   [Alarm Functionality](#2-Alarm-Functionality:)
+   [2-Alarm Functionality](#2-Alarm-Functionality:)
    
-   [Timer Functionality](#3-Timer-Functionality:)
+   [3-Timer Functionality](#3-Timer-Functionality:)
    
-   [Chronometer functionality](#4-Chronometer-functionality:)
+   [4-Chronometer functionality](#4-Chronometer-functionality:)
    
-   [Analog clock functionality](#5-Analog-clock-functionality:)
+   [5-Analog clock functionality](#5-Analog-clock-functionality:)
 
    [Conclusion](#Conclusion)
    
