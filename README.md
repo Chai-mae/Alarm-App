@@ -6,18 +6,20 @@
 
    [Introduction](#Introduction)
    
-   [1-Application description](1-Application-description)
+   [Application description](1-Application-description)
    
-   [2-Alarm Functionality](#2-Alarm-Functionality)
+   [Alarm Functionality](#2-Alarm-Functionality)
    
-   [3-Timer Functionality](#3-Timer-Functionality)
+   [Timer Functionality](#3-Timer-Functionality)
    
-   [4-Chronometer functionality](#4-Chronometer-functionality)
+   [Chronometer functionality](#4-Chronometer-functionality)
    
-   [5-Analog clock functionality](#5-Analog-clock-functionality)
+   [Analog clock functionality](#5-Analog-clock-functionality)
 
    [Conclusion](#Conclusion)
    
+ **<h2>Introduction:</h2>**
+  
  In our final project we have chosen to work on an Alarm application. In fact this application has been a good opportunity for us to practice the skills we have learned in writing multi-platform GUI applications using the Qt library Course. 
  
 **<h2>Application description</h2>**
