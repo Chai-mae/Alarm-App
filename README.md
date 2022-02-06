@@ -8,13 +8,13 @@
    
    [1-Application description](1-Application-description)
    
-   [2-Alarm Functionality](#2-Alarm-Functionality:)
+   [2-Alarm Functionality](#2-Alarm-Functionality)
    
-   [3-Timer Functionality](#3-Timer-Functionality:)
+   [3-Timer Functionality](#3-Timer-Functionality)
    
-   [4-Chronometer functionality](#4-Chronometer-functionality:)
+   [4-Chronometer functionality](#4-Chronometer-functionality)
    
-   [5-Analog clock functionality](#5-Analog-clock-functionality:)
+   [5-Analog clock functionality](#5-Analog-clock-functionality)
 
    [Conclusion](#Conclusion)
    
