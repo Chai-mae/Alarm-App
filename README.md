@@ -83,8 +83,7 @@ In this slot we set our QStandardItem to Qt::checked.
 
 Once the time set in the alarm is equal to the current time,the alarm starts to ring and a QDialog window shows up asking whether the user wants to stop the alarm or to repeat it after one minute. 
 
-
-photo
+![Capture d’écran 2022-02-06 182456](https://user-images.githubusercontent.com/93831197/152693043-7bc107ce-f5ff-477c-8aa3-25714ac5aba5.png)
 
 Here is the code of this functionality :
 ```javascript
