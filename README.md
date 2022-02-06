@@ -12,9 +12,9 @@
    
    [Timer Functionality:](#3-Timer-Functionality:)
    
-   [Chronometer functionality:](#3-Chronometer-functionality:)
+   [Chronometer functionality:](#4-Chronometer-functionality:)
    
-   [Analog clock functionality:](#3-Analog-clock-functionality:)
+   [Analog clock functionality:](#5-Analog-clock-functionality:)
 
    [Conclusion](#Conclusion)
    
