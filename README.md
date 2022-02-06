@@ -210,3 +210,88 @@ file.close();
 }
 
 ```
+**<h2>Timer Functionality:</h2>**
+In this functionality, we have worked with the QTimer and QElapsedTimer libraries. 
+* The QTimer class provides a high-level programming interface for timers.
+* The QElapsedTimer class is usually used to quickly calculate how much time has elapsed between two events. 
+
+The user sets the time for the countdown in a QTimeEdit widget. 
+
+To display the time in QLCDNumber widget we implemented the following function:
+```javascript
+voidTimer::showTime(){
+countdown=ui->timeEdit->time();
+autoelapsed=etimer.elapsed();
+autoc=countdown.addMSecs(-elapsed);
+QStringtimestr=c.toString("hh:mm:ss.zzz");
+ui->lcdNumber->display(timestr);
+}
+
+```
+In order to start the timer the user needs to click on the start button that is connected to the following slot:
+```javascript
+voidTimer::on_pushButton_2_clicked()
+{
+ui->lcdNumber->display(ui->timeEdit->text());
+connect(timer,&QTimer::timeout,this,&Timer::showTime);
+
+timer->start();
+
+}
+```
+The user can pause and resume the timer by clicking on the respective buttons that are connected to the following slots:
+
+```javascript
+voidTimer::on_pushButton_3_clicked() // pause
+{
+
+intremaining=timer->remainingTime();
+timer->stop();
+timer->setInterval(remaining);
+
+}
+
+
+voidTimer::on_pushButton_4_clicked() // resume
+{
+timer->start();
+
+}
+
+
+```
+**<h2>Chronometer functionality:</h2>**
+In this part we have implemented a simple stopwatch function using the QTimer library. In order to display the time in the QLCDNumber widget, we implemented the following slot: 
+```javascript
+voidchronometer::showTime(){
+chrono=newQTime(h,m,s);
+
+
+ui->lcdNumber->display(chrono->toString());
+s++;
+
+if(s>59){
+m++;
+s=0;
+}
+
+if(m>59){
+h++;
+s=0;
+m=0;
+}
+
+}
+
+
+```
+**<h2>Analog clock functionality:</h2>**
+This class provides a clock widget with hour and minute hands that is automatically updated every few seconds. This class uses the QPainterwhich  provides highly optimized functions to do most of the drawing GUI programs require. It can draw everything from simple lines to complex shapes like pies and chords. It can also draw aligned text and pixmaps. For the implementation we have followed the Qt Analog Clock Example https://doc.qt.io/qt-5/qtwidgets-widgets-analogclock-example.html
+
+**<h2>Conclusion :</h2>**
+In this final project in writing multi-platform GUI applications using the Qt library , we have discovered how to work with libraries that were new to us. We have also practiced working  with the MVC model.
+
+
+**<h2>Made by:</h2>**
+<h3>Ikram Belmadani</h3>
+<h3>Biyaye Chaimae</h3>
