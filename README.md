@@ -2,7 +2,22 @@
 
 ![111](https://user-images.githubusercontent.com/93831197/152684997-86eae776-7735-4c29-82fa-180c30ce009a.jpeg)
  
- 
+ **<h2>Table of contents</h2>**
+
+   [Introduction](#Introduction)
+   
+   [Application description](1-Application-description)
+   
+   [Alarm Functionality:](#2-Alarm-Functionality:)
+   
+   [Timer Functionality:](#3-Timer-Functionality:)
+   
+   [Chronometer functionality:](#3-Chronometer-functionality:)
+   
+   [Analog clock functionality:](#3-Analog-clock-functionality:)
+
+   [Conclusion](#Conclusion)
+   
  In our final project we have chosen to work on an Alarm application. In fact this application has been a good opportunity for us to practice the skills we have learned in writing multi-platform GUI applications using the Qt library Course. 
  
 **<h2>Application description</h2>**
@@ -290,6 +305,10 @@ This class provides a clock widget with hour and minute hands that is automatica
 
 **<h2>Conclusion :</h2>**
 In this final project in writing multi-platform GUI applications using the Qt library , we have discovered how to work with libraries that were new to us. We have also practiced working  with the MVC model.
+
+Here is a video of the simulation of the application:
+
+
 
 
 **<h2>Made by:</h2>**
