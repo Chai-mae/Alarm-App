@@ -39,4 +39,6 @@ It contains also a QListView in which the alarmsare displayed. At the top of the
 
 This is the main functionality of our application. To set a new alarm we need to click on the plus button at the top right of the main window. The following QDialog window appears :
 
+![HAY](https://user-images.githubusercontent.com/93831197/152686107-f3392dcf-2fb0-4a6e-9046-641914b0c7dd.jpeg)
+
 
