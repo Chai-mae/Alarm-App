@@ -44,9 +44,8 @@ This is the main functionality of our application. To set a new alarm we need to
 In this dialog we set the description and the time of the alarms as well as we choose the ring tone that we want to be played.
 Once the OK button is clicked the alarm is fixed, it is added to our model and displayed in our view. This done through the following getters defined in the AddAlarmDialog class: 
  ```javascript
- QStringAddAlarmDialog::getDesc(){
+QStringAddAlarmDialog::getDesc(){
 returnui->lineEdit->text();
-
 }
 QStringAddAlarmDialog::getTimeSting(){
 returnui->timeEdit->text();
