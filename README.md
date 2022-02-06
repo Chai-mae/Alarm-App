@@ -8,13 +8,13 @@
    
    [Application description](1-Application-description)
    
-   [Alarm Functionality:](#2-Alarm-Functionality:)
+   [Alarm Functionality](#2-Alarm-Functionality:)
    
-   [Timer Functionality:](#3-Timer-Functionality:)
+   [Timer Functionality](#3-Timer-Functionality:)
    
-   [Chronometer functionality:](#4-Chronometer-functionality:)
+   [Chronometer functionality](#4-Chronometer-functionality:)
    
-   [Analog clock functionality:](#5-Analog-clock-functionality:)
+   [Analog clock functionality](#5-Analog-clock-functionality:)
 
    [Conclusion](#Conclusion)
    
@@ -308,6 +308,7 @@ In this final project in writing multi-platform GUI applications using the Qt li
 
 Here is a video of the simulation of the application:
 
+https://user-images.githubusercontent.com/93831197/152697262-d7eb8744-3de2-41ce-9c08-7da3c7921f41.mp4
 
 
 
